@@ -1,0 +1,2 @@
+c:\users\signa\documents\visual studio 2015\Projects\Pong\Pong\PongContent\obj\x86\Debug\PongContent.contentprojResolveAssemblyReference.cache
+D:\Documents\Code\Grade 12 - C#\Pong\Pong\PongContent\obj\x86\Debug\PongContent.contentprojResolveAssemblyReference.cache
